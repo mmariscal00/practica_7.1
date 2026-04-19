@@ -31,4 +31,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            mmariscal00/practica_7.1:latest
+            marmargom23/practica_7.1:latest
